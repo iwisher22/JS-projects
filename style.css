@@ -1,0 +1,40 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.colorch {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.canvas h1 {
+	margin: 10px;
+	margin-bottom: 35px;
+	text-align: left;
+	border: 2px solid black;
+	max-width: 400px;
+	background-color: grey;
+}
+
+.button {
+	margin-top: 15px;
+	margin: 15px;
+	padding: 20px 30px;
+	border: 2px solid black;
+}
+
+#blue {
+	background-color: blue;
+}
+#red {
+	background-color: red;
+}
+
+#yellow {
+	background-color: yellow;
+}
+#green {
+	background-color: green;
+}
